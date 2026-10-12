@@ -1,5 +1,5 @@
 # CPS 310 Midterm - Zombie Game Simulation
-
+# Patrick Williams
 ## About the Project
 
 For this midterm, I made a simple zombie simulation using Python. The game starts with 5 humans and 3 zombies. Each round, the zombies attack humans and take away 20 health. The program also keeps track of the round number, location, weather, and time.
